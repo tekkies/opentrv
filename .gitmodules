@@ -7,3 +7,6 @@
 [submodule "OTAESGCM"]
 	path = OTAESGCM
 	url = https://github.com/tekkies/OTAESGCM.git
+[submodule "OTMakeSupport"]
+	path = OTMakeSupport
+	url = https://github.com/tekkies/OTMakeSupport.git
