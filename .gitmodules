@@ -1,0 +1,9 @@
+[submodule "OpenTRV-Arduino-V0p2"]
+	path = OpenTRV-Arduino-V0p2
+	url = https://github.com/tekkies/OpenTRV-Arduino-V0p2.git
+[submodule "OTRadioLink"]
+	path = OTRadioLink
+	url = https://github.com/tekkies/OTRadioLink.git
+[submodule "OTAESGCM"]
+	path = OTAESGCM
+	url = https://github.com/tekkies/OTAESGCM.git
